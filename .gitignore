@@ -1,0 +1,30 @@
+# Ignore engine-specific files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Ignore user-specific settings
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+
+# Ignore compiled binaries
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.class
+
+# Ignore logs and temp files
+*.log
+*.temp
+*.tmp
